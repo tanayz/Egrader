@@ -1,0 +1,7 @@
+Printing the final Score list.............................
+File	1a	1b	1c	1d	2a	2b	3a	Final
+1.txt	5	4	4	4	5	5	5	4.5	
+19.txt	4	4	4	1	4	2	4	3.0	
+2.txt	3	3	3	1	5	5	5	3.5	
+20.txt	5	5	5	4	4	4	5	4.5	
+3.txt	4	4	3	2	5	5	5	4.0	
